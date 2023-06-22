@@ -1,0 +1,34 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1579546929518-9e396f3cc809?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGlnaHQlMjBjb2xvdXJ8ZW58MHx8MHx8fDA%3D&w=1000&q=80 )
+}
+div{
+    height: 500px;
+    width: 400px;
+    background-image: linear-gradient( to left,blue,white);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+img{
+    margin-right: 50px;
+    height: 250px;
+    width: 400px;   
+}
+h2{
+    margin-left: 20px;
+}
+input{
+    margin-left: 20px;
+    height: 20px;
+    width: 240px;
+}
+button{
+    margin-left: 10px;
+    color: white;
+    background-color: red;
+    height: 30px;
+}
+ul{
+    list-style: none;
+    line
+}

@@ -1,0 +1,32 @@
+body{ 
+    background-image:url(https://wallpapercave.com/wp/wp6424796.jpg );
+}
+h1{ 
+    text-align: center;
+}
+div{
+    background-color: white;
+    height:350px;
+    width:260px;
+    float: left;
+    margin:50px;
+    text-align: center;
+}
+
+
+.icon{ 
+       
+}
+i{ 
+    margin-top: 80px;
+    margin-left: 20px;
+    margin-right: 50px;
+    font-size: 100px;
+}
+hr
+{ 
+    background-color: black;
+    height:2px;
+    width:100px
+    
+}

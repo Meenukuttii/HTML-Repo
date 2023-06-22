@@ -1,0 +1,27 @@
+body{
+    background-image: url( https://back.3blmedia.com/sites/default/files/styles/ratio_3_2/public/triplepundit/wide/reflecting%20sunlight.jpg?h=0d92ec72);
+}
+h1{
+    margin-top: 80px;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+h3{
+    text-align: center;
+
+}
+div{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+#addressbox{
+    margin-left: 400px;
+}
+i{
+    margin-top: 40px;
+    margin-left: 40px;
+    font-size: 50px;
+}
+

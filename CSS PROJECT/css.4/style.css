@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+body{
+    background-image: url(https://i.pinimg.com/736x/ec/93/a8/ec93a879f9e3997d7aec67efe6987f39--jesus-loves-bible.jpg );
+}
+div{
+    background-color: white;
+    max-width: 75%;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+}
+hr{
+    width: 100px;
+    height: 2px;
+    background-color: red;
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: darkgrey;
+}
+button{
+    background-color: rgb(185, 23, 23);
+    color: white;
+    width: 100px;
+    height: 30px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+i{
+    font-size: 40px;
+}
+input{
+    height: 30px;
+    margin-left: 40px;
+}
+textarea{
+    margin-left: 40px;
+}
